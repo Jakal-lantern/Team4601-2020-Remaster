@@ -1,0 +1,19 @@
+See file:///C:/Users/CircuitBirds/Desktop/Code%202020/ArcadeCode/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+In file included from C:\Users\CircuitBirds\Desktop\Code 2020\ArcadeCode\src\main\cpp\Robot.cpp:32:0:
+C:\Users\CircuitBirds\.gradle\caches\transforms-2\files-2.1\f78589b1f173909e18ca9d5419a0a5fa\wpilibc-cpp-2020.2.2-headers/frc/WPILib.h:14:2: warning: #warning is a GCC extension
+ #warning "Including this header drastically increases compilation times and is bad style. Include only what you use instead."
+  ^~~~~~~
+C:\Users\CircuitBirds\.gradle\caches\transforms-2\files-2.1\f78589b1f173909e18ca9d5419a0a5fa\wpilibc-cpp-2020.2.2-headers/frc/WPILib.h:14:2: warning: #warning "Including this header drastically increases compilation times and is bad style. Include only what you use instead." [-Wcpp]
+C:\Users\CircuitBirds\Desktop\Code 2020\ArcadeCode\src\main\cpp\Robot.cpp: In member function 'void Robot::UpdateLimelightTracking()':
+C:\Users\CircuitBirds\Desktop\Code 2020\ArcadeCode\src\main\cpp\Robot.cpp:472:18: warning: unused variable 'driveConst' [-Wunused-variable]
+     const double driveConst = 0.26;
+                  ^~~~~~~~~~
+C:\Users\CircuitBirds\Desktop\Code 2020\ArcadeCode\src\main\cpp\Robot.cpp:475:18: warning: unused variable 'desiredTargetArea' [-Wunused-variable]
+     const double desiredTargetArea = 13.0;
+                  ^~~~~~~~~~~~~~~~~
+C:\Users\CircuitBirds\Desktop\Code 2020\ArcadeCode\src\main\cpp\Robot.cpp:476:18: warning: unused variable 'maxDrive' [-Wunused-variable]
+     const double maxDrive = 0.65;
+                  ^~~~~~~~
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/CircuitBirds/Desktop/Code%202020/ArcadeCode/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
